@@ -1,0 +1,8 @@
+# No third-party dependencies required.
+# All tools run on Python 3.9+ standard library only.
+# The packages below are optional — only needed if you extend the tools.
+
+# For notebook-based analysis (optional)
+# jupyter
+# pandas
+# matplotlib

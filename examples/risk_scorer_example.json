@@ -1,0 +1,13 @@
+{
+  "name": "HR Candidate Screening AI",
+  "uses_personal_data": true,
+  "uses_sensitive_data": false,
+  "affects_consequential_decisions": true,
+  "regulated_domain": true,
+  "eu_market_exposure": false,
+  "human_in_loop": "partial",
+  "third_party_model": true,
+  "estimated_monthly_affected_persons": 500,
+  "estimated_financial_impact_usd": 2000000,
+  "autonomous_action": false
+}

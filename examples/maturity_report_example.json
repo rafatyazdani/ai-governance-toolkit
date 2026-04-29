@@ -1,0 +1,12 @@
+{
+  "org": "Acme Corp",
+  "assessor": "Jane Smith",
+  "date": "2026-04-29",
+  "scores": {
+    "governance": [3, 2, 1, 3, 2],
+    "risk_identification": [2, 3, 2, 1, 2],
+    "technical_controls": [2, 2, 1, 2, 1],
+    "human_oversight": [3, 2, 3, 1, 2],
+    "compliance": [2, 1, 2, 3, 2]
+  }
+}
