@@ -344,7 +344,7 @@ def main():
     report = generate_markdown_report(result)
 
     if args.output:
-        with open(args.output, "w") as f:
+        with open(args.output, "w", encoding="utf-8") as f:
             f.write(report)
         print(f"Report written to {args.output}")
     else:
