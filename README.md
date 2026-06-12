@@ -117,10 +117,22 @@ See [`crq-framework.md`](crq-framework.md) for the full methodology.
 
 ---
 
+## Related artifacts in the portfolio
+
+- **AI-specific governance maturity** (this repo's `maturity-scorecard.md`) is intentionally narrow — it scores AI governance program maturity.
+- For **enterprise security program maturity** (NIST CSF 2.0, CIS Controls v8, ISO/IEC 27001:2022) see [`maturity-scoring-engine`](https://github.com/rafatyazdani/maturity-scoring-engine).
+- For **financial risk quantification** of AI risk see [`cyber-risk-quantification`](https://github.com/rafatyazdani/cyber-risk-quantification) and the [`CRQ Dashboard`](https://github.com/rafatyazdani/CRQ-Dashboard).
+
+---
+
 ## License
 
 Apache 2.0 — free to use, adapt, and deploy in commercial contexts with attribution.
 
 ---
 
-*Built by a CISSP + CPA with 10+ years in GRC and cybersecurity strategy.*
+**Built by Rafat Yazdani** — CPA · CISSP · CISA · CCSK · AWS Certified
+Security Strategy & Cyber Risk Quantification — Accenture Security
+
+> Methodology backbone: **CRQ-F Framework** (Cyber Risk Quantification — Financial).
+> Portfolio overview: [github.com/rafatyazdani](https://github.com/rafatyazdani) — Methodology · Quantification math · Consulting products · Governance & maturity · Operations · Board output.
